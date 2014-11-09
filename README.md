@@ -8,3 +8,9 @@ In this project, I use TSL2561 Light sensor and TMP102 Temperature sensor to rea
 Like Node-RED, Cylon.js and Spark Core can be used to create simple and powerful solution that integrate multiple hardware and platforms.
 
 **Screenshots**
+
+![Wiring](https://raw.githubusercontent.com/krvarma/SparkCore_Cylon/master/screenshots/IMG_0175.JPG)
+
+![AT&T M2X](https://raw.githubusercontent.com/krvarma/SparkCore_Cylon/master/screenshots/m2x.png)
+
+![Console](https://raw.githubusercontent.com/krvarma/SparkCore_Cylon/master/screenshots/console.png)
